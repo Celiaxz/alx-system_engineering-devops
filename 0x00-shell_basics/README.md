@@ -12,3 +12,4 @@
 11-lists : lists all files(including files with .) in the current directory and parent directory.
 12-file_type : prints the type of file.
 13-symbolic_link : creates symbolic link.
+14-copy_html : copies all the html files.
