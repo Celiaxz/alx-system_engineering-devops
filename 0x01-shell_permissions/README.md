@@ -5,3 +5,4 @@
 4-empty : creates an empty file.
 5-execute : adds exe permission to the owner of the file.
 6-multiple_permissions : adds exe permissions to the owner and grp owner, and read permission to other users.
+7-everybody : adds exe permission to the owner, grp owner and the other users.
