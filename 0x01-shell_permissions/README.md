@@ -1,2 +1,3 @@
 0-iam_betty : switches the current user to the user betty.
-i-who_am-i : prints the effective username of the current user.
+1-who_am-i : prints the effective username of the current user.
+2-groups : prints all the groups the current user are part of.
