@@ -13,3 +13,4 @@
 12-directory_permissions : creates a dir with permissions 751 in the working dir.
 13-change_group : changes the grp owner.
 100-change_owner_and_group : changes the owner to vincent and the grp owner to staff for all the files and dir in the working dir.
+101-symbolic_link_permissions : changes the owner and the grp owner of _hello to vincent and staff respectively.
