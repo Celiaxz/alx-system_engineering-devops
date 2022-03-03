@@ -12,3 +12,4 @@
 11-directories_permissions : adds exe permissions to all subdir of the current dir for the owner, the grp owner and all other user.
 12-directory_permissions : creates a dir with permissions 751 in the working dir.
 13-change_group : changes the grp owner.
+100-change_owner_and_group : changes the owner to vincent and the grp owner to staff for all the files and dir in the working dir.
