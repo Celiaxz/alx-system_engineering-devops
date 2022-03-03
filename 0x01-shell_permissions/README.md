@@ -7,4 +7,5 @@
 6-multiple_permissions : adds exe permissions to the owner and grp owner, and read permission to other users.
 7-everybody : adds exe permission to the owner, grp owner and the other users.
 8-James_Bond : sets the permissions to the file.
-9-John_Doe : sets the mode of the file
+9-John_Doe : sets the mode of the file.
+10-mirror_permissions : sets the mode of the file hello the same as olleh's mode.
