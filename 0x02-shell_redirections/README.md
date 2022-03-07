@@ -16,3 +16,8 @@
 15-countthatword : display the number of lines that containsthe pattern "bin" in the file.
 16-whatsnext : display lines containing the pattern "root" and 3 lines after them in the file.
 17-hidethisword : display all the lines in the file that do not contain the pattern "bin".
+18-letteronly : display all lines of the file starting with a letter.
+19-AZ : Replace characters.
+20-hiago : removes all letters c and C.
+21-reverse : reverse its input.
+22-users_and_homes : displays all users and their home dir, sorted by users.
