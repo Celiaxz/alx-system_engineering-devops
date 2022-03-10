@@ -1,2 +1,3 @@
 #!/bin/bash
-printf '%s\n' "hello My$(id -n -u)"
+printf '%s\n' "hello MyRoot"
+
